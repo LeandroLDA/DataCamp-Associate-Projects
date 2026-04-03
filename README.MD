@@ -2,7 +2,7 @@
 
 
 
-Welcome to my portfolio of integrated Data Science and Analytics projects! This repository showcases my ability to solve complex, real-world business problems by combining **Python **, **Data Engineering**, and **Data Visualization** techniques.
+Welcome to my portfolio of integrated Data Science and Analytics projects! This repository showcases my ability to solve complex, real-world business problems by combining **Python**, **Data Engineering**, and **Data Visualization** techniques.
 
 
 
